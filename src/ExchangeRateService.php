@@ -31,6 +31,6 @@ class ExchangeRateService
                     });
                 }
             }
-        } catch (\Exception $e) {}
+        } catch (Exception $e) {}
     }
 }
